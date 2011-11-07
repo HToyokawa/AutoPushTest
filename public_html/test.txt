@@ -1,1 +1,1 @@
-aajhkjkurl.Substring(l + 1);sjg
+aajhkjkurl.Substring(l + 1);sjgk
